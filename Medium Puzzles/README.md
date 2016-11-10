@@ -1,5 +1,12 @@
 # Descriptions of puzzles
 
+# [Telephone Numbers](./TelephoneNumbers.py)
+The goal of this puzzle is to store multiple phone numbers in a compact way, using a tree data structure, then count all the nodes there are in this tree. Be careful that you may need several tree roots.
+
+# [Conway Sequence in C++ (did it not to include spaces therefore wrong)](./ConwaySequence.cpp)
+# [Conway Sequence in Python (This one does as the challenge requires)](./ConwaySequence.py)
+The goal of this puzzle is to make you work with a mathematical series: The Conway Sequence. Discover how to generate terms of a series interatively.
+
 # [Don't Panic - Episode 1](./DontPanicEpisode1.cpp)
 You need to help Marvin and his clones (or is it the other way round?) reach the exit in order to help them escape the inside of the Infinite Improbability Drive. 
 
