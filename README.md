@@ -1,5 +1,5 @@
-# codingame-solutions-Cpp
-My solutions for Codingame challenges in C++
+# Codingame Solutions
+My solutions for Codingame challenges in C++ and Python
 
 Located at: https://www.codingame.com/
 
